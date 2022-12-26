@@ -41,7 +41,6 @@
 - [ ] Cambiar xticks: -98, -96, -94
 
 #### Figura 10 - Wind driven currents
-- [x] Cambiar Ekman currents por wind-driven currents en el caption
 - [ ] Poner primero GlobCurrent
 
 #### Figura 11 - Ageostrofía restante
