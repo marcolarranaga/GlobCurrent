@@ -51,6 +51,10 @@
 - [ ] Como en las otras figuras, agregar POLCOMS-WAM después de el inciso y escribir el nombre del término a la derecha
 - [ ] Cambiar xticks: -98, -96, -94
 
-#### Figura 15 - Corrientes ciclogeostróficas
+#### Figura 15 - Corrientes ciclogeostróficas POLCOMS-WAM
 - [ ] Utilizar \mathrm en los subíndices
 - [ ] Cambiar xticks: -98, -96, -94
+- [ ] Utilizar \mathrm en los subíndices
+
+#### Figura 16 - Corrientes ciclogeostróficas GlobCurrent
+- [ ] Utilizar \mathrm en los subíndices
