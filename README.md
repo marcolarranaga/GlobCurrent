@@ -30,12 +30,14 @@
 - [ ] Quitar v1 de GlobCurrent
 - [ ] Cambiar POLCOMS por POLCOMS--WAM
 - [ ] Orden en legend:
-1) CTOH SLA + CNES-CLS13 MDT '-k'
-2) CTOH SLA + CNES-CLS13 MDT '--k'
-3) CMEMS SLA + CNES-CLS13 MDT '-','color',[1,1,1]*.5
-4) CMEMS SLA + CNES-CLS13 MDT '--','color',[1,1,1]*.5
-5) GlobCurrent '-','color',[0.75,0.22,0.16]
-6) POLCOMS-WAM '-','color',[0.18,0.52,0.75]
+1) CNES-CLS13 MDT '-','color',[0.15,0.68,0.37]
+2) CNES-CLS18 MDT '--','color',[0.15,0.68,0.37]
+3) CTOH SLA + CNES-CLS13 MDT '-k'
+4) CTOH SLA + CNES-CLS13 MDT '--k'
+5) CMEMS SLA + CNES-CLS13 MDT '-','color',[1,1,1]*.5
+6) CMEMS SLA + CNES-CLS13 MDT '--','color',[1,1,1]*.5
+7) GlobCurrent '-','color',[0.75,0.22,0.16]
+8) POLCOMS-WAM '-','color',[0.18,0.52,0.75]
 
 #### Figura 8 - Variabilidad geostrofía POLCOMS-WAM
 - [ ] Cambiar POLCOMS por POLCOMS-WAM
