@@ -57,11 +57,11 @@
 * Los datos están en la carpeta Dropbox/Articulo_GlobCurrent/Data/Fig_07_Ekman_currents/
 * El orden debe ser:
 1) GlobCurrent
-2) POLCOMS--WAM Ekman <- Fig_07_Ekman_currents_data.mat
-* Texto en la ezquina -> \mathbf{u}_\mathrm{ek}
-3) POLCOMS--WAM Ekman + Stokes drift <- Fig_07_Ekman_currents_plus_Stokes_drift_and_inertial_oscillations_data.mat
+2) POLCOMS--WAM Ekman + Stokes drift <- Fig_07_Ekman_currents_plus_Stokes_drift_and_inertial_oscillations_data.mat
 * Texto en la ezquina -> \mathbf{u}_\mathrm{ek} + \mathbf{U}_\mathrm{s}
-
+3) POLCOMS--WAM Ekman <- Fig_07_Ekman_currents_data.mat
+* Texto en la ezquina -> \mathbf{u}_\mathrm{ek}
+* 
 #### Figura 11 - Ageostrofía restante
 - [ ] Utilizar \mathrm en los subíndices
 - [ ] Cambiar xticks: -98, -96, -94
