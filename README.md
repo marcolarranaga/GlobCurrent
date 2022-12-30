@@ -4,7 +4,7 @@
 
 #### Figura 3 - Stokes drift
 - [ ] Poner primero GlobCurrent
-- [ ] Quitar v1 de GlobCurrent
+- [ ] Quitar v1 y cambiar GLOBCURRENT por GlobCurrent
 - [ ] Cambiar yticks: 12, 14, 16
 
 #### Figura 4 - Viento
@@ -13,7 +13,7 @@
 
 #### Figura 5 - Geostrofía
 - [ ] Poner primero GlobCurrent
-- [ ] Quivat v1 de GlobCurrent
+- [ ] Quivat v1 y cambiar GLOBCURRENT por GlobCurrent
 - [ ] Cambiar xticks: -98, -96, -94
 - [ ] Cambiar yticks: 12, 14, 16
 
@@ -47,15 +47,26 @@
 #### Figura 9 - Variabilidad geostrofía GlobCurrent
 - [ ] Cambiar xticks: -98, -96, -94
 - [ ] Cambiar yticks: 12, 14, 16
+- [ ] Cambiar GLOBCURRENT por GlobCurrent
 
 #### Figura 10 - Wind driven currents
 - [ ] Poner primero GlobCurrent
+- [ ] Quitar v1 de GlobCurrent
 - [ ] Cambiar yticks: 12, 14, 16
+- [ ] Agregar POLCOMS-WAM sin Stokes drift
+* Los datos están en la carpeta Dropbox/Articulo_GlobCurrent/Data/Fig_07_Ekman_currents/
+* El orden debe ser:
+1) GlobCurrent
+2) POLCOMS--WAM Ekman <- Fig_07_Ekman_currents_data.mat
+* Texto en la ezquina -> \mathbf{u}_\mathrm{ek}
+3) POLCOMS--WAM Ekman + Stokes drift <- Fig_07_Ekman_currents_plus_Stokes_drift_and_inertial_oscillations_data.mat
+* Texto en la ezquina -> \mathbf{u}_\mathrm{ek} + \mathbf{U}_\mathrm{s}
 
 #### Figura 11 - Ageostrofía restante
 - [ ] Utilizar \mathrm en los subíndices
 - [ ] Cambiar xticks: -98, -96, -94
 - [ ] Cambiar yticks: 12, 14, 16
+- [ ] Quitar v1 y cambiar GLOBCURRENT por GlobCurrent
 
 #### Figura 12 - Aceleraciones de la ecuación de movimiento
 - [ ] Como en las otras figuras, agregar POLCOMS-WAM después de el inciso y escribir el nombre del término a la derecha
